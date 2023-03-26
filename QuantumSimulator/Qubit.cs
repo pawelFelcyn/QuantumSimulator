@@ -3,5 +3,5 @@
 public class Qubit
 {
     internal double Zero { get; set; } = 1;
-    public double One { get; set; } = 0;
+    internal double One { get; set; } = 0;
 }
